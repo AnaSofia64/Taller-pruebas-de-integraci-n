@@ -4,7 +4,7 @@
 **Universidad de La Sabana - Maestria en Ingenieria de Software**
 
 ## Integrantes
-*Ana Sofia Rodriguez y Juan Camilo Silva*
+*Ana Sofia Rodriguez y Juan Camilo*
 
 ## Estructura
 src/main/java/edu/unisabana/tyvs/registry/
