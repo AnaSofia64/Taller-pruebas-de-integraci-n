@@ -1,9 +1,5 @@
 package edu.unisabana.tyvs.registry.domain.model;
 
 public enum RegisterResult {
-    VALID,
-    INVALID,
-    UNDERAGE,
-    DEAD,
-    DUPLICATED
+    VALID, DUPLICATED, INVALID, DEAD, UNDERAGE, INVALID_AGE
 }

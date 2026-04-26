@@ -1,19 +1,11 @@
-package edu.unisabana.tyvs.registry;
+package edu.unisabana.tyvs.registry.delivery.rest;
 
 import org.junit.Test;
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertTrue;
 
-/**
- * Unit test for simple App.
- */
-public class AppTest 
-{
-    /**
-     * Rigorous Test :-)
-     */
+public class AppTest {
     @Test
-    public void shouldAnswerWithTrue()
-    {
-        assertTrue( true );
+    public void smokeTest() {
+        assertTrue(true);
     }
 }
